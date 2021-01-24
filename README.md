@@ -43,6 +43,7 @@ The figure 5 and 6 show the before (figure 5) and after the manipulation (figure
 
 The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The only conclusion is the 9th was the best performing class across all.
 
+## Sending analysis & conclusion
 
 #### Figure 9: Spending before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_ori.png" width="750" />
@@ -53,6 +54,6 @@ The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The 
 #### Figure 10: Type before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_ori.png?raw=true" width="750" />
 
-#### Figure 10: Spending  before modification
+#### Figure 10: Type before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_mod.png?raw=true" width="750" />
 
