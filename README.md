@@ -30,3 +30,25 @@ The Figure 3 and 4 show by comparing the size of Thomas High School with 1,635 s
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_mod.png?raw=true" width="750" />
 
 The figure 5 and 6 show the before (figure 5) and after the manipulation (figure 6) that the 9th grade wasn’t the worst or the best performer for the reading test.
+
+#### Figure 7: Reading score before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_ori.png?raw=true" width="750" />
+
+#### Figure 8: Reading score before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_mod.png?raw=true" width="750" />
+
+The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The only conclusion is the 9th was the best performing class across all.
+
+
+#### Figure 9: Spending before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_ori.png" width="750" />
+
+#### Figure 10: Spending before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_mod.png?raw=true" width="750" />
+
+#### Figure 10: Type before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_ori.png?raw=true" width="750" />
+
+#### Figure 10: Spending  before modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_mod.png?raw=true" width="750" />
+
