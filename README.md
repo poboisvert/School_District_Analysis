@@ -51,9 +51,3 @@ The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The 
 #### Figure 10: Spending before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_mod.png?raw=true" width="750" />
 
-#### Figure 10: Type before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_ori.png?raw=true" width="750" />
-
-#### Figure 10: Type before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/type_mod.png?raw=true" width="750" />
-
