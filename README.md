@@ -33,7 +33,7 @@ The Figure 3 and 4 show by comparing the size of Thomas High School with 1,635 s
 #### Figure 6: Reading score before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_mod.png?raw=true" width="750" />
 
-The figure 5 and 6 show the before (figure 5) and after the manipulation (figure 6) that the 9th grade wasn’t the worst or the best performer for the reading test. This analysis to not confirm a signigicant variation.
+The figure 6 seems to confirm that almost all students in the 9th grade got a passing grade, but we can not confirm it since we do not have any metrics like IQR, median or minimum. The figure 5 and 6 show the before (figure 5) and after the manipulation (figure 6) that the 9th grade wasn’t the worst or the best performer for the reading test. This analysis to not confirm a signigicant variation.
 
 #### Figure 7: Mathematics score before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_ori.png?raw=true" width="750" />
@@ -48,6 +48,11 @@ The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The 
 #### Figure 9: Spending before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_ori.png" width="750" />
 
-#### Figure 10: Spending before modification
+#### Figure 10: Spending after modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_mod.png?raw=true" width="750" />
+
+Figure 9 & 10 show a slight improvement for the overall passing grade and the total % for the $630-644 group which include Thomas High School. In conclusion, the 9th group seems in the average, but slighly lower and by removing it, the school is improving and maintain his second rank.
+
+#### Figure 11: Top 5 after modification
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/top5_mod.png?raw=true" width="750" />
 
