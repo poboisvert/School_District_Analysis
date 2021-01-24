@@ -14,3 +14,9 @@ Maria is thrilled that there is no missing data in the CSV files. By doing an ex
 
 
 The figure 1 and 2 illustrate the effect of removing the 461 students in 9th grade at Thomas Student School. This shows a significant variable for the reading and mathematics result and seem to confirm the alteration of the dataset.
+
+#### Figure 3: District before adjustment
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/school_ori.png?raw=true" width="750" />
+
+#### Figure 4: District after adjustment
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/school_mod.png?raw=true" width="750" />
