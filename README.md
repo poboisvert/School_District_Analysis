@@ -4,7 +4,11 @@
 
 This project provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.
 
-Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. we found that some student names had "Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD".
+Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. we found that some student names have:
+
+```
+prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD"]
+```
 
 ## Size and district results and analysis
 
