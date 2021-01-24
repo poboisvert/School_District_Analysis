@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of this project
+## Overview of this project
 
 This project provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.
 
