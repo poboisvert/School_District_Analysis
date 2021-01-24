@@ -20,3 +20,5 @@ The figure 1 and 2 illustrate the effect of removing the 461 students in 9th gra
 
 #### Figure 4: District after adjustment
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/school_mod.png?raw=true" width="750" />
+
+The Figure 3 and 4 show by comparing the size of Thomas High School with 1,635 students against all the school in this dataset. Again, the removing the 9th grade only the size “Medium (1000-2000)” is improving since the 9th grades seems to be below the average. The modification showed that the 9th grade is above the average result and push the average higher.
