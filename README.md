@@ -1,10 +1,9 @@
 # School_District_Analysis
-Overview of the school district analysis:
 
-The purpose of this analysis is well defined (3 pt).
-Results:
+Overview of this project
+This project provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.
 
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
+Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. we found that some student names had "Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD".
 
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
+####Figure 1: District before adjustment
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/district_mod.png?raw=true" width="300" />
