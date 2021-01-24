@@ -7,4 +7,4 @@ Maria is thrilled that there is no missing data in the CSV files. By doing an ex
 
 ####Figure 1: District before adjustment
 
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/district_mod.png?raw=true" width="450" />
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/district_mod.png?raw=true" width="750" />
