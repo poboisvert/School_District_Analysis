@@ -40,18 +40,18 @@ The Figure 3 and 4 show by comparing the size of Thomas High School with 1,635 s
 ## Test results and analysis 
 
 #### Figure 5: Reading score before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_ori.png?raw=true" width="750" />
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_ori.png?raw=true" width="450" />
 
 #### Figure 6: Reading score before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_mod.png?raw=true" width="750" />
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/read_mod.png?raw=true" width="450" />
 
 The figure 6 seems to confirm that almost all students in the 9th grade got a passing grade, but we can not confirm it since we do not have any metrics like IQR, median or minimum. The figure 5 and 6 show the before (figure 5) and after the manipulation (figure 6) that the 9th grade wasn’t the worst or the best performer for the reading test. This analysis to not confirm a signigicant variation.
 
 #### Figure 7: Mathematics score before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_ori.png?raw=true" width="750" />
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_ori.png?raw=true" width="450" />
 
 #### Figure 8: Mathematics score before modification
-<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_mod.png?raw=true" width="750" />
+<img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/math_mod.png?raw=true" width="450" />
 
 The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The only conclusion is the 9th was the best performing class across all.
 
