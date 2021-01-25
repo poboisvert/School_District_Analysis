@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of this project
 
@@ -56,7 +56,7 @@ The figure 6 seems to confirm that almost all students in the 9th grade got a pa
 
 The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The only conclusion is the 9th was the best performing class across all.
 
-## Sending analysis & conclusion
+## Spending analysis & conclusion
 
 #### Figure 9: Spending before modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_ori.png" width="750" />
@@ -64,7 +64,7 @@ The figure 7 and 8 illustrate the mathematics grade for Thomas High School. The 
 #### Figure 10: Spending after modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/spend_mod.png?raw=true" width="750" />
 
-Figure 9 & 10 show a slight improvement for the overall passing grade and the total % for the $630-644 group which include Thomas High School. In conclusion, the 9th group seems in the average, but slighly lower and by removing it, the school is improving and maintain his second rank.
+Figure 9 & 10 show a slight improvement for the overall passing grade and the total % for the $630-644 group which include Thomas High School. In conclusion, the 9th group seems in the average, but slighly lower and by removing it, the school is overall is improving, by maintain his second rank.
 
 #### Figure 11: Top 5 after modification
 <img src="https://github.com/poboisvert/School_District_Analysis/blob/main/Resources/images/top5_mod.png?raw=true" width="750" />
