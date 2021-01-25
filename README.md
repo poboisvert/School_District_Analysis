@@ -4,10 +4,18 @@
 
 This project provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.
 
-Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. we found that some student names have:
+Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. We found and remplace the following words that some student have by running the code below.
 
 ```
+# Add each prefix and suffix to remove to a list.
 prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD"]
+
+# Iterate through the words in the "prefixes_suffixes" list and replace them with an empty space, "".
+for word in prefixes_suffixes:
+    student_data_df["student_name"] = student_data_df["student_name"].str.replace(word,"")
+
+# Check names.
+student_data_df.head(10)
 ```
 
 ## Size and district results and analysis
