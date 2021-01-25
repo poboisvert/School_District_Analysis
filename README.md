@@ -2,9 +2,10 @@
 
 ## Overview of this project
 
-This project provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.
+This project uses Python (Pandas) and Jupyter to provides a high-level on a dataset (district) of schools and students that were graded for a mathematics and reading test.The dataset has no missing data and by doing an exploratory analysis and testing to determine how to "clean" a student's name. By using these tools, we helped to assess the schools’ performance and helped the management board to balance the future budget between the schools.
 
-Maria is thrilled that there is no missing data in the CSV files. By doing an exploratory analysis and testing to determine how to "clean" a student's name. We found and remplace the following words that some student have by running the code below.
+
+The most important factor during our cleaning was removing prefix found for some student name by running the code below.
 
 ```
 # Add each prefix and suffix to remove to a list.
